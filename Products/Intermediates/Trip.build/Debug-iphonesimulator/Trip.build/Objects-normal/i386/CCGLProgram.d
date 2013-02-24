@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/CCGLProgram.m \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/CCGLProgram.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/ccMacros.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/ccConfig.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Platforms/CCGL.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Platforms/iOS/CCGLView.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Platforms/iOS/CCESRenderer.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/ccGLStateCache.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Support/CCFileUtils.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Support/../ccTypes.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Support/uthash.h \
+  /Users/fredrikgadnell/Documents/Eget/Cocos2D/Trip/Trip/libs/cocos2d/Support/OpenGL_Internal.h \
+  Trip/libs/kazmath/include/kazmath/GL/matrix.h \
+  Trip/libs/kazmath/include/kazmath/GL/../mat4.h \
+  Trip/libs/kazmath/include/kazmath/GL/../utility.h \
+  Trip/libs/kazmath/include/kazmath/GL/../vec3.h \
+  Trip/libs/kazmath/include/kazmath/kazmath.h \
+  Trip/libs/kazmath/include/kazmath/GL/../vec2.h \
+  Trip/libs/kazmath/include/kazmath/GL/../mat3.h \
+  Trip/libs/kazmath/include/kazmath/GL/../quaternion.h \
+  Trip/libs/kazmath/include/kazmath/GL/../plane.h \
+  Trip/libs/kazmath/include/kazmath/GL/../aabb.h \
+  Trip/libs/kazmath/include/kazmath/GL/../ray2.h
